@@ -1,0 +1,14 @@
+{
+  "name": "elas_demo",
+  "version": "1.0.0",
+  "description": "This is basic nodejs with elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Cuong Ba",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^10.0.1"
+  }
+}
